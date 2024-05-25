@@ -1,9 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)]
 
-<h1 align="center">Hiya! 👋, I'm Prasanth</h1>
-<h3 align="center">Driven Full Stack Developer originating from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/d1/ee/66d1eecbb03cb25bac5a5e8d13a2ec58.gif">
-
+<img align="right" width="400" src="https://i.pinimg.com/originals/66/d1/ee/66d1eecbb03cb25bac5a5e8d13a2ec58.gif">
+<h1 align="left" width="200" height="200">Hiya! 👋, I'm Prasanth</h1>
+<h3 align="left" width="200" height="200">Driven Full Stack Developer originating from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-prasanth&label=Profile%20views&color=0e75b6&style=flat" alt="dev-prasanth" /> </p>
